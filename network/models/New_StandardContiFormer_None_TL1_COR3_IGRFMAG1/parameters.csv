@@ -1,0 +1,2 @@
+seq_len,epochs,batch_size,training_time,model,divergence_free
+20,50,128,767.2796149253845,ContiFormerSimple,False

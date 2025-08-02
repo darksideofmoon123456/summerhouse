@@ -1,0 +1,2 @@
+seq_len,epochs,batch_size,training_time,model,divergence_free
+100,10,128,21.033811569213867,MLP2,False

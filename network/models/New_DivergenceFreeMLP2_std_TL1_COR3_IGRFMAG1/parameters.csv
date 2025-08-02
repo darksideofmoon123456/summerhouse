@@ -1,0 +1,2 @@
+seq_len,epochs,batch_size,training_time,model,divergence_free
+10,10,128,1139.7871222496033,DivergenceFreeMLP2,False

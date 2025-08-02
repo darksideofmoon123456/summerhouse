@@ -1,0 +1,2 @@
+seq_len,epochs,batch_size,training_time,model,divergence_free
+100,10,128,22.928142309188843,ResNet18,False

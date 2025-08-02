@@ -1,0 +1,2 @@
+seq_len,epochs,batch_size,training_time,model,divergence_free
+100,10,128,19.754048824310303,E3NNDivergenceFreeCNN2,False
